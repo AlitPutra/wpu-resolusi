@@ -1,4 +1,5 @@
 Rencana Web Dev
 - Membuat web game store
 - Membuat web template framework CI 4
+- css bootstrap
 - Membuat web wedding
